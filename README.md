@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ian
-- 👀 I’m interested in pure functional programming and full stack web development
-- 🌱 I’m currently teaching Haskell and learning Nix
+- 👀 I’m interested in pure functional programming and web development
+- 🌱 I’m currently teaching Haskell and learning Clojure and Nix
 - 💞️ I’m looking to collaborate on Haskell projects
 
 *"There is only one meaning of life: the act of living itself." --Erich Fromm*
