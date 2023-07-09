@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ian, a full-time Haskell instructor at EMURGO Academy and part-time web developer
-- 👀 I’m interested in functional programming and devops
-- 🌱 I’m currently learning various frontend frameworks, exploring advanced Haskell topics, honing my Nix skills and dabbling in Clojure when I get the chance
+- 👀 I’m interested in functional programming and reproducible DevOps with Nix
+- 🌱 I’m currently exploring advanced Haskell topics
 - 💞️ I’m looking to collaborate on Haskell projects
 
 <!---
