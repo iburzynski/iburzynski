@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ian, a full-time Haskell instructor at EMURGO Academy and part-time web developer
-- 👀 I’m interested in functional programming and reproducible DevOps with Nix
-- 🌱 I’m currently exploring advanced Haskell topics
-- 💞️ I’m looking to collaborate on Haskell projects
+- 👋 Hi, I’m Ian, an instructor of functional programming and blockchain technology at EMURGO Academy and full-stack developer.
+- 👀 I’m interested in functional programming and education. I program in Haskell, TypeScript and Python.
+- 🌱 I’m currently exploring intuitionistic logic and Agda.
+- 💞️ I’m looking to connect with other developers with a philosophical bent.
 
 <!---
 iburzynski/iburzynski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
