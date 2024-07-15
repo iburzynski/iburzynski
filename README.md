@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ian, an instructor of functional programming and blockchain technology at EMURGO Academy and full-stack developer.
+- 👋 Hi, I’m Ian, an instructor of blockchain technology at EMURGO Academy and Future Engineer.
 - ⚜️ Je préfère écrire en français.
-- 🇵🇸 Je reste en Palestine et en Nouvelle-Angleterre (🤢)
+- 🇵🇸 Je reste en Palestine (🐦‍🔥) et en Nouvelle-Angleterre (☠️)
 - 👁️‍🗨️ I like (non-)philosophy, functional programming, and education. I program in Haskell, TypeScript and Python at the moment.
 - 🌱 I’m currently exploring intuitionistic logic and Agda.
 - 💞️ I’m looking to connect with other developers with a philosophical bent (bonus points for reading Laruelle or Negarestani).
