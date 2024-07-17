@@ -1,6 +1,6 @@
 ### Bonjour
 - 👋 Je suis Ian (🇺🇸John/🇫🇷Jean/🇲🇽Juan/🇵🇱Jan)
-- 👨‍🎓 Mon alma mater a été formée à l'Université McGill (Montréal, Québec) (2005 - 2008)
+- 👨‍🎓 Mon alma mater a été formée à l'Université McGill (Montréal, Québec) (📯✝️ --> 📯⚖️)
 - ⚜️ Je préfère écrire en Français (essayez s.v.p!). Espagnol ou Anglais O.K.
 
 ### Détails du travaille
@@ -16,8 +16,8 @@
 - 👫 Je suis marié depuis 📯🌞! (🤟,✌️)
 - 📿 Ma religion est un soufisme pan-abrahamique.
 - 👁️‍🗨️ J'aime (non-)philosophie, programmation fonctionnelle & pédagogie. 
-- 🌱 I’m currently exploring intuitionistic logic and Agda.
-- 💞️ I’m looking to connect with other developers with a philosophical bent (bonus points for reading Laruelle or Negarestani).
+- 🪺 J'explore actuellement la logique intuitionniste avec 🐓.
+- 💞️ I’m looking to connect with other philo-fictional engineers (bonus points for reading Laruelle or Negarestani).
 
 ### Je me souviens
 - 🐬 In the province of the mind there are no limits.
