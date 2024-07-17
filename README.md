@@ -1,6 +1,6 @@
 ### Bonjour
 - 👋 Je suis Ian (🇺🇸John/🇫🇷Jean/🇲🇽Juan/🇵🇱Jan)
-- 👨‍🎓 Mon alma mater a été formée à l'Université McGill (Montréal, Québec) (📯✝️ --> 📯⚖️)
+- 👨‍🎓 Mon alma mater a été formée à l'Université McGill (Montréal, Québec) 📯✝️ ➡️ 📯⚖️
 - ⚜️ Je préfère écrire en Français (essayez s.v.p!). Espagnol ou Anglais O.K.
 
 ### Détails du travaille
